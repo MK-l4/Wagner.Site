@@ -1,7 +1,7 @@
-name: "sub-test",
-main: "worker.js",
-compatibility_date: "2026-09-10",
+name = "sub-test",
+main = "worker.js",
+compatibility_date = "2026-09-10",
 
 [[kv_namespaces]]
-binding: "DB"
-id: "6f1ffc6735c44eca96f9ef2a5d6d6bd
+binding = "DB"
+id = "6f1ffc6735c44eca96f9ef2a5d6d6bd
