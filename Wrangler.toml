@@ -1,6 +1,6 @@
-name = "sub-test",
-main = "worker.js",
-compatibility_date = "2026-09-10",
+name = "sub-test"
+main = "worker.js"
+compatibility_date = "2026-09-10"
 
 [[kv_namespaces]]
 binding = "DB"
